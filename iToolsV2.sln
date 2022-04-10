@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iToolsV2 Client", "iToolsV2\iToolsV2 Client.csproj", "{5AD95DF4-05BA-4ACD-94D0-FD8C74C5A740}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iToolsV2-Server", "..\iToolsV2-Server\iToolsV2-Server\iToolsV2-Server.csproj", "{2FECC4DB-44CC-4C0E-9CB9-134CDB8E8C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AD95DF4-05BA-4ACD-94D0-FD8C74C5A740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD95DF4-05BA-4ACD-94D0-FD8C74C5A740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD95DF4-05BA-4ACD-94D0-FD8C74C5A740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD95DF4-05BA-4ACD-94D0-FD8C74C5A740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FECC4DB-44CC-4C0E-9CB9-134CDB8E8C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FECC4DB-44CC-4C0E-9CB9-134CDB8E8C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FECC4DB-44CC-4C0E-9CB9-134CDB8E8C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FECC4DB-44CC-4C0E-9CB9-134CDB8E8C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F1F69F-4B82-4573-8869-3248773ED9BC}
+	EndGlobalSection
+EndGlobal
